@@ -1,9 +1,9 @@
 # Guess-Game
 Type npm i to have it on your machine.
 
-It has necessary comments added, to understand React Native.
+The Code has necessary comments added, to understand React Native.
 
-A Basic Guessing Number Game built with Expo (React Native).
+A Basic Guessing Number Game built with React Native
 
 In this App you will enter a number.
 
